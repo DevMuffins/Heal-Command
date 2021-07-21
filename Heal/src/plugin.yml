@@ -1,0 +1,8 @@
+name: Heal
+main: me.Heal.Main
+version: 1
+description: Heal command! Will set your health and hunger to max!
+
+commands:
+  Heal:
+    description: Heal Command
